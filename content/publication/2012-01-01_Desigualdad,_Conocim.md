@@ -2,9 +2,9 @@
 title = "Desigualdad, Conocimiento Cívico y Expectativas de Participación Política de Estudiantes En Chile"
 date = "2012-01-01"
 authors = ["Juan Carlos Castillo", "Daniel Miranda", "Macarena Bonhomme", "Cristian Cox", "Martin Bascope"]
-publication_types = ["0"]
-publication = " Chile:"
-publication_short = " Chile:"
+publication_types = ["1"]
+publication = "Congreso Nacional de Sociología (Pre ALAS).  Chile:"
+publication_short = "Congreso Nacional de Sociología (Pre ALAS).  Chile:"
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_code = ""

@@ -7,6 +7,7 @@ publication = ""
 publication_short = ""
 abstract = "(Abstract not available)"
 abstract_short = ""
+url_source = "https://www.mideuc.cl/wp-content/ uploads/2020/01/MIDevidencias-21.pdf"
 url_code = ""
 image_preview = ""
 selected = false

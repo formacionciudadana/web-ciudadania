@@ -2,9 +2,9 @@
 title = "Conocimiento Cívico y Ciudadanía En Escuelas de América Latina"
 date = "2014-01-01"
 authors = ["Daniel Miranda", "Juan Carlos Castillo", "Macarena Bonhomme", "Cristian Cox", "Martin Bascope"]
-publication_types = ["0"]
-publication = " Chile:"
-publication_short = " Chile:"
+publication_types = ["1"]
+publication = "III Congreso Interdisciplinario de Investigación En Educación (CIIE).  Chile:"
+publication_short = "III Congreso Interdisciplinario de Investigación En Educación (CIIE).  Chile:"
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_code = ""

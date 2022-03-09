@@ -2,9 +2,9 @@
 title = "Social Inequality and Changes in Students’ Expected Political Participation in Chile"
 date = "2012-01-01"
 authors = ["Juan Carlos Castillo", "Daniel Miranda", "J Escobar", "Cristian Cox", "Martin Bascope"]
-publication_types = ["0"]
-publication = " Estados Unidos:"
-publication_short = " Estados Unidos:"
+publication_types = ["1"]
+publication = "Annual Scientific Meeting of the International Society of Political Psychology (ISPP).  Estados Unidos:"
+publication_short = "Annual Scientific Meeting of the International Society of Political Psychology (ISPP).  Estados Unidos:"
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_code = ""

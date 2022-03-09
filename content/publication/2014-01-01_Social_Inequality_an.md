@@ -1,7 +1,7 @@
 +++
 title = "Social Inequality and Changes in Students’ Expected Political Participation in Chile"
 date = "2014-01-01"
-authors = ["Juan C Castillo", "Daniel Miranda", "Macarena Bonhomme", "Cristian Cox", "Martin Bascope"]
+authors = ["Juan Carlos Castillo", "Daniel Miranda", "Macarena Bonhomme", "Cristian Cox", "Martin Bascope"]
 publication_types = ["2"]
 publication = "Education, Citizenship and Social Justice, 9(2) 140--156. https://doi.org/10.1177/1746197914520650"
 publication_short = "Education, Citizenship and Social Justice, 9(2) 140--156. https://doi.org/10.1177/1746197914520650"

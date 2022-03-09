@@ -2,9 +2,9 @@
 title = "¿Cómo Están Siendo Formados Los Futuros Ciudadanos En Distintos Contextos Sociales y Culturales? Múltiples Perspectivas de La Educación Ciudadana En Chile"
 date = "2014-01-01"
 authors = ["Macarena Bonhomme", "Maximiliano Tham"]
-publication_types = ["0"]
-publication = " Chile:"
-publication_short = " Chile:"
+publication_types = ["1"]
+publication = "III Congreso Interdisciplinario de Investigación En Educación (CIIE).  Chile:"
+publication_short = "III Congreso Interdisciplinario de Investigación En Educación (CIIE).  Chile:"
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_code = ""

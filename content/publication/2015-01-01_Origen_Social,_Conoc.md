@@ -2,9 +2,9 @@
 title = "Origen Social, Conocimiento Cívico y Participación En La Escuela: El Caso Chileno"
 date = "2015-01-01"
 authors = ["Daniel Miranda", "Juan Carlos Castillo", "Macarena Bonhomme", "Cristian Cox", "Martin Bascope"]
-publication_types = ["0"]
-publication = " Chile:"
-publication_short = " Chile:"
+publication_types = ["1"]
+publication = "I Congreso Internacional de Investigación Sobre Educación y Pobreza (CIEP).  Chile:"
+publication_short = "I Congreso Internacional de Investigación Sobre Educación y Pobreza (CIEP).  Chile:"
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_code = ""

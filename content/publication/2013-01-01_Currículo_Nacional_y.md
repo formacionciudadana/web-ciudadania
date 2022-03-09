@@ -2,9 +2,9 @@
 title = "Currículo Nacional y Educación Ciudadana En Latinoamérica"
 date = "2013-01-01"
 authors = ["Martin Bascope", "Cristian Cox", "Macarena Bonhomme", "Juan Carlos Castillo", "Daniel Miranda"]
-publication_types = ["0"]
-publication = " Chile:"
-publication_short = " Chile:"
+publication_types = ["1"]
+publication = "XXIX Congreso Latinoamericano de Sociología (ALAS).  Chile:"
+publication_short = "XXIX Congreso Latinoamericano de Sociología (ALAS).  Chile:"
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_code = ""

@@ -2,9 +2,9 @@
 title = "Social Origin and Citizenship Participation in Latin American Schools"
 date = "2012-01-01"
 authors = ["Juan Carlos Castillo", "Cristian Cox", "Martin Bascope", "Daniel Miranda", "D Escobar"]
-publication_types = ["0"]
-publication = " Canadá:"
-publication_short = " Canadá:"
+publication_types = ["1"]
+publication = "American Educational Research Association (AERA) Annual Meeting.  Canadá:"
+publication_short = "American Educational Research Association (AERA) Annual Meeting.  Canadá:"
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_code = ""

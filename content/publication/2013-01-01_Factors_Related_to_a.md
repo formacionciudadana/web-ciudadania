@@ -2,9 +2,9 @@
 title = "Factors Related to an Open Classroom Climate and Its Impact on Civic Knowledge and Expected Political Participation"
 date = "2013-01-01"
 authors = ["Juan Carlos Castillo", "Daniel Miranda", "Macarena Bonhomme", "Cristian Cox", "Martin Bascope"]
-publication_types = ["0"]
-publication = " Argentina:"
-publication_short = " Argentina:"
+publication_types = ["1"]
+publication = "XV Comparative Education World Congress (WCCE).  Argentina:"
+publication_short = "XV Comparative Education World Congress (WCCE).  Argentina:"
 abstract = "(Abstract not available)"
 abstract_short = ""
 url_code = ""
