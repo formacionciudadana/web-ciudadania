@@ -248,11 +248,27 @@ df_move <- data.frame(citekey,
 df_move <- left_join(df_move,
                      featured,by = "citekey")
 
+# create original file name of the md files
+df_move$orig_name <- paste0(
+  df_move$dir_folder,
+  str_remove_all(string = df_move$files,pattern ="content/event")
+  )
+
+# create the new name for the md files inside folders
+df_move$new_name <- paste0(
+  df_move$dir_folder,
+  "/index.md"
+  )
+
+
 # Copy .md files to directories and then delete the original .md files
 for (i in 1:dim(df_move)[1]) {
   file.copy(from = df_move[i,c("files")],
             to = df_move[i,c("dir_folder")])
   file.remove(df_move[i,c("files")])
+  # rename of each md to "index.md" in order to use de "feature.jpg"
+  file.rename(from = df_move[i,c("orig_name")],
+              to = df_move[i,c("new_name")])
 }
 
 # download featured images and store them inside folders
