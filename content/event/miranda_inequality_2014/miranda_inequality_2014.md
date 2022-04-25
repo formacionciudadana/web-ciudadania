@@ -1,7 +1,7 @@
 +++
 title = "Inequality in Students' Citizenship Participation across Countries"
 date = "2014-01-01"
-authors = ["Daniel Miranda", "Juan Carlos Castillo", "Macarena Bonhomme", "CristiA¡n Cox", "MartA-n BascopA(C)"]
+authors = ["Daniel Miranda", "Juan Carlos Castillo", "Macarena Bonhomme", "Cristian Cox", "Martin Bascope"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

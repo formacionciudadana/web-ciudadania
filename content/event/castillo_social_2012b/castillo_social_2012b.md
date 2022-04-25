@@ -1,7 +1,7 @@
 +++
 title = "Social Origin and Citizenship Participation in Latin American Schools"
 date = "2012-01-01"
-authors = ["Juan Carlos Castillo", "CristiA¡n Cox", "MartA-n BascopA(C)", "Daniel Miranda", "D Escobar"]
+authors = ["Juan Carlos Castillo", "Cristian Cox", "Martin Bascope", "Daniel Miranda", "D Escobar"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

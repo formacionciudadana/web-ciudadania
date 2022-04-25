@@ -1,7 +1,7 @@
 +++
 title = "Origen Social, Conocimiento Cívico y Participación En La Escuela: El Caso Chileno"
 date = "2015-01-01"
-authors = ["Daniel Miranda", "Juan Carlos Castillo", "Macarena Bonhomme", "CristiA�n Cox", "MartA-n BascopA(C)"]
+authors = ["Daniel Miranda", "Juan Carlos Castillo", "Macarena Bonhomme", "Cristian Cox", "Martin Bascope"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

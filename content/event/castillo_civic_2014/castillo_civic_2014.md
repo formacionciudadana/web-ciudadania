@@ -1,7 +1,7 @@
 +++
 title = "Civic Knowledge, Classroom Climate and Expected Political Participation in Latin American Schools"
 date = "2014-01-01"
-authors = ["Juan Carlos Castillo", "Daniel Miranda", "Macarena Bonhomme", "CristiA¡n Cox", "MartA-n BascopA(C)"]
+authors = ["Juan Carlos Castillo", "Daniel Miranda", "Macarena Bonhomme", "Cristian Cox", "Martin Bascope"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

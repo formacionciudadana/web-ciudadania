@@ -1,7 +1,7 @@
 +++
 title = "Oportunidades de Aprendizaje Sobre Educación Ciudadana En Latinoamérica"
 date = "2012-01-01"
-authors = ["CristiA�n Cox", "MartA-n BascopA(C)", "Juan Carlos Castillo", "Daniel Miranda"]
+authors = ["Cristian Cox", "Martin Bascope", "Juan Carlos Castillo", "Daniel Miranda"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

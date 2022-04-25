@@ -1,7 +1,7 @@
 +++
 title = "National Curricular Guidelines and Citizenship Education in Schools in Latin American Countries"
 date = "2013-01-01"
-authors = ["MartA-n BascopA(C)", "Macarena Bonhomme", "CristiA¡n Cox", "Juan Carlos Castillo", "Daniel Miranda"]
+authors = ["Martin Bascope", "Macarena Bonhomme", "Cristian Cox", "Juan Carlos Castillo", "Daniel Miranda"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

@@ -1,7 +1,7 @@
 +++
 title = "Lo Civil y Lo Cívico: Hacia Un Modelo Conceptual y de Medición de Ciudadanía Escolar"
 date = "2015-01-01"
-authors = ["Juan Carlos Castillo", "Daniel Miranda", "AndrA(C)s Sandoval-Hernandez", "Macarena Bonhomme", "CristiA�n Cox", "MartA-n BascopA(C)"]
+authors = ["Juan Carlos Castillo", "Daniel Miranda", "Andres Sandoval-Hernandez", "Macarena Bonhomme", "Cristian Cox", "Martin Bascope"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

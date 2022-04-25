@@ -1,7 +1,7 @@
 +++
 title = "Social Inequality and Changes in Studentsâ€™ Expected Political Participation in Chile"
 date = "2012-01-01"
-authors = ["Juan Carlos Castillo", "Daniel Miranda", "J Escobar", "CristiA¡n Cox", "MartA-n BascopA(C)"]
+authors = ["Juan Carlos Castillo", "Daniel Miranda", "J Escobar", "Cristian Cox", "Martin Bascope"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""
