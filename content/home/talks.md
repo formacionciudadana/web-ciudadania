@@ -7,12 +7,12 @@ widget: pages
 headless: true
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 40
 
-title: 'Recent & Upcoming Talks'
+title: 'Presentaciones'
 subtitle:
 
 content:

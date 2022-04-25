@@ -101,7 +101,7 @@
 - id: location
   translation: Localización
 - id: pub_uncat
-  translation: Sin categoría
+  translation: Presentación 
 - id: pub_conf
   translation: Artículo de conferencia
 - id: pub_journal
