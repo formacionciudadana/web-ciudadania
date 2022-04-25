@@ -10,16 +10,16 @@ role: Coordinador
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Concepción
+- name: Centro de Estudios de Conflicto y Cohesión Social
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
 education:
   courses:

@@ -24,7 +24,7 @@ main:
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
-  - name: Equipo
+  - name: Nosotros
     url: '/people/'
     weight: 60
   # - name: Experiencias

@@ -2,24 +2,26 @@
 # Display name
 title: Cristián Cox
 
+weight: 1
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Investigador
+role: Investigador Principal
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Concepción
+- name: Universidad Diego Portales
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
 education:
   courses:

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: Equipo
+title: 
 subtitle:
 
 content:
@@ -26,4 +26,6 @@ design:
   show_interests: false
   show_role: true
   show_social: true
+  show_organizations: true
+
 ---

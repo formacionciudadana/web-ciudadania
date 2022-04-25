@@ -2,6 +2,8 @@
 # Display name
 title: Juan Carlos Castillo
 
+weight: 2
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -10,16 +12,16 @@ role: Investigador
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Concepción
-  url: ""
+- name: Universidad de Chile
+  url: "jc-castillo.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
 education:
   courses:
