@@ -57,20 +57,6 @@ subtitle = ""
 Este sitio busca abrir a la comunidad académica, como también a la sociedad civil, el trabajo de investigación de últimos diez años en torno a temáticas como el aprendizaje de la ciudadanía, participación política juvenil, y el rol de la familia y la escuela en la socialización política.  Al respecto, es posible encontrar información sobre:
 
 
-{{% callout note %}}
-
-En el menú superior puedes encontrar:
-
-💡 Proyectos de investigación
-
-📚 Publicaciones académicas e informes
-
-🙌 Equipo de investigación
-
-{{% /callout %}}
-
-
-
 <!-- ## Get inspired -->
 
 <!-- [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/). -->
