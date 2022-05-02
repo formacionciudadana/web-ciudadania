@@ -16,7 +16,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Profesor titular de la Facultad de Educación. Licenciado en Sociología (Pontificia Universidad Católica de Chile) y Doctor en Sociología (Universidad de Londres). Dirige la Secretaría Técnica de la Estrategia Docente para América Latina y el Caribe de UNESCO-OREALC. Sus temas de investigación son política educacional, currículum, formación docente y educación ciudadana. En este último ámbito participa en el Project Advisory Committee, de la International Civic and Citizenship Education Study 2016, de la IEA.
 
 # interests:
 # - Artificial Intelligence

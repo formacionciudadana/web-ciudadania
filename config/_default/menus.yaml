@@ -24,9 +24,16 @@ main:
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
+  - name: Conferencias
+#    url: '#featured'
+    url: '/event/'
+    weight: 60
+#  - name: Contact
+#    url: '#contact'
+#    weight: 60
   - name: Nosotros
     url: '/people/'
-    weight: 60
+    weight: 70
   # - name: Experiencias
   #   url: '/experience/'
   #   weight: 60

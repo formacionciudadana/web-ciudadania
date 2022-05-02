@@ -14,12 +14,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Doctor en Sociología, Magíster en Sociología y Magíster en Psicología Social-Comunitaria de la Pontificia Universidad Católica de Chile, y Psicólogo de la Universidad de Talca. Desde marzo de 2018 se desempeña como Investigador del Centro de Medición MIDE UC. Además, participa como Investigador en el Centro de Estudios de Conflicto y Cohesión Social – COES. 
 
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Socialización política
+- Participación política juvenil
+- Formación para la ciudadanía
 
 education:
   courses:

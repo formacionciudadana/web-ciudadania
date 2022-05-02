@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: PhD in Latin American Studies. Universidad de Leiden, Holanda. Msc. Statistics. Quantitative Analysis in the Social Sciences. Universidad Católica de Lovaina, Bélgica. Diplomada en Fortalecimiento Organizacional, Colaboración y Sociedad Civil, Universidad de Chile. Licenciada en Sociología. Universidad Católica Silva Henríquez.
 
 # interests:
 # - Artificial Intelligence

@@ -16,12 +16,13 @@ organizations:
   url: "jc-castillo.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Profesor asociado en el Departamento de Sociología de la Universidad de Chile desde 2019 e investigador principal del Centro de Estudios de Conflicto y Cohesión social COES desde 2013. Antes profesor en el Instituto de Sociología de la Pontificia Universidad Católica de Chile (2014-2018) y coordinador del área de investigación del Centro de Medición MIDE UC (2010-2013).
 
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Justicia distributiva
+- Formación ciudadana
+- Cohesión Social
+
 
 education:
   courses:
