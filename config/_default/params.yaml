@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: false
-font: 'Minimal'
+font: 'Classic'
 font_size: L
 
 # SEO
@@ -59,8 +59,8 @@ email: fondecyt.ciudadania@gmail.com
 
 main_menu:
   enable: true
-  align: r
-  show_logo: true
+  align: l
+  show_logo: false
   show_language: false
   show_day_night: true
   show_search: true
@@ -156,3 +156,5 @@ cms:
 icon:
   pack:
     ai: true
+
+
