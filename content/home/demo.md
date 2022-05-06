@@ -29,7 +29,7 @@ subtitle = ""
   #gradient_end = "ForestGreen"
   
   # Background image.
-  # origen: https://trianglify.io/p/w:1920!h:1080!x:random!v:0.7!c:0.02!s:eme7ve!f:sp!i:0.30   
+  # origen: https://trianglify.io/p/w:1920!h:360!x:random!v:0.7!c:0.02!s:eme7ve!f:sp!i:0.30   
    image = "image2.png"  # Name of image in `static/media/`.
    image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
@@ -41,7 +41,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["400px", "", "", ""]
+  padding = ["200px", "", "", ""]
 
 [advanced]
  # Custom CSS. 
