@@ -31,9 +31,15 @@ main:
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
+  - name: Links
+    url: '/links/'
+    weight: 70
+  # - name: Experiencias
+  #   url: '/experience/'
+  #   weight: 60
   - name: Nosotros
     url: '/people/'
-    weight: 70
+    weight: 80
   # - name: Experiencias
   #   url: '/experience/'
   #   weight: 60
