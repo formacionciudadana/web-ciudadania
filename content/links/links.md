@@ -1,14 +1,18 @@
 ---
-widget: blank
-headless: true
+widget: "blank"
+headless: false
+show_date: false
+
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Links 
-subtitle:
+subtitle: 
 weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 ---
 
-Add any content here - text, images, videos, galleries - and even HTML code!
+
+* [Formación Ciudadana](https://formacionciudadana.mineduc.cl/), Ministerio de Educación.
+* [IEA](https://www.iea.nl/) (International Association for the Evaluation of Educational Achievement)
