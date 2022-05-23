@@ -1,19 +1,15 @@
 ---
-widget: "blank"
-headless: false
+title: Links
+summary: Here we describe how to add a page to your site.
+
+headless: true
 show_date: false
-
-
-# ... Put Your Section Options Here (title etc.) ...
-title: Links 
-subtitle: 
-weight: 10  # section position on page
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
 ---
 
+## Nacional 
 
 * [Formación Ciudadana](https://formacionciudadana.mineduc.cl/), Ministerio de Educación.
 
+
+## Internacional
 * [IEA](https://www.iea.nl/) (International Association for the Evaluation of Educational Achievement)
