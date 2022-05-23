@@ -41,7 +41,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["190px", "", "", ""]
+  padding = ["200px", "", "200px", ""]
 
 [advanced]
  # Custom CSS. 
@@ -51,7 +51,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<!-- <br><br><br><br><br><br><br><br><br><br><br><br> -->
+<br><br>
 
 
 <!-- ## Bienvenid-s a nuestro sitio web -->
