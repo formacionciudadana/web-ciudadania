@@ -39,7 +39,7 @@ Una de las características de Chile como caso de estudio a nivel internacional 
 
 # Documentos
 
-
+- [Formulación propuesta](formulacion-edumer.pdf)
 
 # Equipo
 
@@ -52,7 +52,8 @@ Una de las características de Chile como caso de estudio a nivel internacional 
 -  Mauricio Salgado (Sociología - Universidad Andrés Bello).
 
 **Asistentes de investigación:**
-- Adolfo Maza
+
+- Samanta Alarcón
 - Francisco Molina
 - Kevin Carrasco
 
