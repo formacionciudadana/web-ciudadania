@@ -9,11 +9,12 @@ active = true  # Activate this widget? true/false
 weight = 16  # Order that this section will appear.
 
 title = "<br>"
-subtitle = "_**Este sitio tiene por objetivos compartir y divulgar el trabajo de investigación de los últimos diez años en torno a temáticas relacionadas con la educación ciudadana, la participación política juvenil y el rol de la familia y la escuela en los procesos de socialización política. Como tal, este sitio web contiene distintos proyectos de investigación que han abordado estas temáticas, así como los productos obtenidos de este trabajo.**_"
+subtitle = "El **Programa de Investigación en Ciudadanía Escolar (PRICE)** se constituye a partir de la vinculación de distintos proyectos de investigación que desde el año 2011 en adelante se han abocado a temas como participación en la escuela, conocimiento cívico, prácticas docentes de ciudadanía y socialización política familiar. <br><br> En estos proyectos participan académicas y académicos de ciencias sociales y de educación de la Universidad Diego Portales, la Pontificia Universidad Católica de Chile, y la Universidad de Chile. <br><br>El el presente sitio formacion-ciudadana.cl se puede encontrar información de los proyectos, publicaciones, presentaciones, tesis, datos y links a material relacionado con la formación ciudadana en Chile."
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"  
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -23,19 +24,19 @@ subtitle = "_**Este sitio tiene por objetivos compartir y divulgar el trabajo de
 
   # Background color.
   # color = "#891446"
-  
+
   # Background gradient.
   # gradient_start = "DarkGreen"
   # gradient_end = "ForestGreen"
-  
+
   # Background image.
-  # origen: https://trianglify.io/p/w:1920!h:1080!x:random!v:0.7!c:0.02!s:eme7ve!f:sp!i:0.30   
+  # origen: https://trianglify.io/p/w:1920!h:1080!x:random!v:0.7!c:0.02!s:eme7ve!f:sp!i:0.30
    # image = "image2.png"  # Name of image in `static/media/`.
    # image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    # image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
    # image_position = "center"  # Options include `left`, `center` (default), or `right`.
    # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
+
   # Text color (true=light or false=dark).
   text_color_light = false
 
@@ -44,9 +45,9 @@ subtitle = "_**Este sitio tiene por objetivos compartir y divulgar el trabajo de
   padding = ["25px", "100px", "50px", "100px"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
