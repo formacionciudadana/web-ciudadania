@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Courier+Prime&family=Prompt:wght@200&display=swap');
+
+body {
+  font-family: 'Prompt', sans-serif;
+  font-weight: normal;
+  color: #FFF;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: normal;
+  color: #dc322f;
+  margin-bottom:0.2px;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.red {
+  color: red; 
+}

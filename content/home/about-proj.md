@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 16  # Order that this section will appear.
 
 title = "<br>"
-subtitle = "El **Programa de Investigación en Ciudadanía Escolar (PRICE)** se constituye a partir de la vinculación de distintos proyectos de investigación que desde el año 2011 en adelante se han abocado a temas como participación en la escuela, conocimiento cívico, prácticas docentes de ciudadanía y socialización política familiar. <br><br> En estos proyectos participan académicas y académicos de ciencias sociales y de educación de la Universidad Diego Portales, la Pontificia Universidad Católica de Chile, y la Universidad de Chile. <br><br>El el presente sitio formacion-ciudadana.cl se puede encontrar información de los proyectos, publicaciones, presentaciones, tesis, datos y links a material relacionado con la formación ciudadana en Chile."
+subtitle = " "
 
 
 [design]
@@ -23,7 +23,7 @@ subtitle = "El **Programa de Investigación en Ciudadanía Escolar (PRICE)** se 
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "#891446"
+   color = "#135694"
 
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -38,30 +38,20 @@ subtitle = "El **Programa de Investigación en Ciudadanía Escolar (PRICE)** se 
    # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["25px", "100px", "50px", "100px"]
+  padding = ["0px", "100px", "50px", "25px"]
 
 [advanced]
  # Custom CSS.
- css_style = ""
+css_style =  "text-align: center;"
 
  # CSS class.
  css_class = ""
 +++
-
-<!-- <br><br><br><br><br><br><br><br><br><br><br><br> -->
-
-
-<!-- ## Bienvenid-s a nuestro sitio web -->
-
-
-
-
-<!-- Asimismo, se destaca la labor de distintos investigadores que han participado en estos proyectos, divulgando sus publicaciones y participación en conferencias nacionales e internacionales. -->
-
+### El **Programa de Investigación en Ciudadanía Escolar (PRICE)** se constituye a partir de la vinculación de distintos proyectos de investigación que desde el año 2011 en adelante se han abocado a temas como participación en la escuela, conocimiento cívico, prácticas docentes de ciudadanía y socialización política familiar. <br><br> En estos proyectos participan académicas y académicos de ciencias sociales y de educación de la Universidad Diego Portales, la Pontificia Universidad Católica de Chile, y la Universidad de Chile. <br><br> El el presente sitio  <span style="color:red">ciudadania-escolar.cl</span> se puede encontrar información de los proyectos, publicaciones, presentaciones, tesis, datos y links a material relacionado con el trabajo de PRICE y con la formación ciudadana escolar en Chile.
 
 <!-- ## Get inspired -->
 
