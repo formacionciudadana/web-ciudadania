@@ -1,7 +1,7 @@
 +++
 title = "Voto y participación electoral. Creencias y actitudes de estudiantes de enseñanza media"
 date = "2021-01-01"
-authors = ["Camila {Jara Ibarra}", "Cristian Cox", "Macarena {Sanchez Bachmann}"]
+authors = ["Camila Jara", "Cristian Cox", "Macarena Sanchez"]
 publication_types = ["6"]
 publication = " In Cristobal Villalobos, María Jesús Morel & Ernesto Treviño: Ciudadanías, educación y juventudes: investigaciones y debates para el Chile del futuro.  467--498. Santiago, Chile: Ediciones Universidad Católica de Chile. ISBN: 978-956-14-2882-9"
 publication_short = " In Cristobal Villalobos, María Jesús Morel & Ernesto Treviño: Ciudadanías, educación y juventudes: investigaciones y debates para el Chile del futuro.  467--498. Santiago, Chile: Ediciones Universidad Católica de Chile. ISBN: 978-956-14-2882-9"

@@ -1,7 +1,7 @@
 +++
 title = "Socialización Política y Formación Ciudadana En El Contexto Escolar Chileno. Un Análisis Desde El Enfoque de Género"
 date = "2021-01-01"
-authors = ["Camila {Jara Ibarra}", "Macarena {Sanchez Bachmann}", "Cristian Cox", "Maria Jesus Montecinos"]
+authors = ["Camila Jara", "Macarena Sanchez", "Cristian Cox", "Maria Jesus Montecinos"]
 publication_types = ["2"]
 publication = "Calidad en la Educación(54) 73. https://doi.org/10.31619/caledu.n54.932"
 publication_short = "Calidad en la Educación(54) 73. https://doi.org/10.31619/caledu.n54.932"
