@@ -16,7 +16,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesor titular de la Facultad de Educación. Licenciado en Sociología (Pontificia Universidad Católica de Chile) y Doctor en Sociología (Universidad de Londres). Dirige la Secretaría Técnica de la Estrategia Docente para América Latina y el Caribe de UNESCO-OREALC. Sus temas de investigación son política educacional, currículum, formación docente y educación ciudadana. En este último ámbito participa en el Project Advisory Committee, de la International Civic and Citizenship Education Study 2016, de la IEA.
+bio: Profesor titular de la Facultad de Educación. Licenciado en Sociología (Pontificia Universidad Católica de Chile) y Doctor en Sociología (Universidad de Londres). Dirige la Secretaría Técnica de la Estrategia Docente para América Latina y el Caribe de UNESCO-OREALC. 
 
 # interests:
 # - Artificial Intelligence
@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigadores
+- Academicos
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

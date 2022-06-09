@@ -2,6 +2,10 @@
 # Display name
 title: Juan Carlos Castillo
 
+# Username (this should match the folder name)
+authors:
+  - jccastillo
+
 weight: 4
 
 # Is this the primary user of the site?
@@ -16,7 +20,7 @@ organizations:
   url: "jc-castillo.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesor asociado en el Departamento de Sociología de la Universidad de Chile desde 2019 e investigador principal del Centro de Estudios de Conflicto y Cohesión social COES desde 2013. Antes profesor en el Instituto de Sociología de la Pontificia Universidad Católica de Chile (2014-2018) y coordinador del área de investigación del Centro de Medición MIDE UC (2010-2013).
+bio: Profesor asociado en el Departamento de Sociología de la Universidad de Chile desde 2019 e investigador principal del Centro de Estudios de Conflicto y Cohesión social COES desde 2013. 
 
 interests:
 - Justicia distributiva
@@ -41,6 +45,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+
+- icon: globe
+  icon_pack: fas
+  link: 'https://jc-castillo.com/'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:juancastillov@uchile.cl'
@@ -68,7 +76,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigadores
+- Academicos
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

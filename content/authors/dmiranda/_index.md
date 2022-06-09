@@ -2,6 +2,10 @@
 # Display name
 title: Daniel Miranda
 
+# Username (this should match the folder name)
+authors:
+  - dmiranda
+
 weight: 2
 
 # Is this the primary user of the site?
@@ -16,7 +20,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctor en Sociología, Magíster en Sociología y Magíster en Psicología Social-Comunitaria de la Pontificia Universidad Católica de Chile, y Psicólogo de la Universidad de Talca. Desde marzo de 2018 se desempeña como Investigador del Centro de Medición MIDE UC. Además, participa como Investigador en el Centro de Estudios de Conflicto y Cohesión Social – COES. 
+bio: Investigador del Centro de Medición MIDE UC e Investigador en el Centro de Estudios de Conflicto y Cohesión Social – COES. 
 
 interests:
 - Socialización política
@@ -67,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigadores
+- Academicos
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

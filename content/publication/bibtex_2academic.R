@@ -38,7 +38,6 @@ bibtex_2academic <- function(bibfile,
       replacement = '',
       x = mypubs$mainref
     )
-
     # Customize for more than one editor
 
     mypubs$editor<- gsub(
@@ -126,16 +125,16 @@ bibtex_2academic <- function(bibfile,
                                                          x[["booktitle"]], ". ")
       if (!is.na(x[["volume"]])) publication <- paste0(publication,
                                                        ", ", x[["volume"]], "")
-      if (!is.na(x[["type"]])) publication <- paste0(publication,
-                                                     x[["type"]], " ")
+      # if (!is.na(x[["type"]])) publication <- paste0(publication,
+      #                                                x[["type"]], " ")
        if (!is.na(x[["number"]])) publication <- paste0(publication,
                                                        "(", x[["number"]], ")")
       if (!is.na(x[["pages"]])) publication <- paste0(publication,
                                                       " ", x[["pages"]], ".")
       if (!is.na(x[["address"]])) publication <- paste0(publication,
                                                         " ", x[["address"]], ":")
-      if (!is.na(x[["institution"]])) publication <- paste0(publication,
-                                                            " ", x[["institution"]])
+      # if (!is.na(x[["institution"]])) publication <- paste0(publication,
+      #                                                       " ", x[["institution"]])
       if (!is.na(x[["publisher"]])) publication <- paste0(publication,
                                                           " ", x[["publisher"]])
       if (!is.na(x[["doi"]])) publication <- paste0(publication,

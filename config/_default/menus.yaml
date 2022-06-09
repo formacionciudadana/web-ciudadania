@@ -5,28 +5,28 @@
 
 main:
   - name: Inicio
-    url: '#about'
+    url: '#about-proj'
     weight: 10
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
   - name: Proyectos
 #    url: '#projects'
-    url: '/project/'
+    url: '#projects'
     weight: 30
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
   - name: Publicaciones
 #    url: '#featured'
-    url: '/publication/'
+    url: '#publications'
     weight: 50
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
   - name: Presentaciones
 #    url: '#featured'
-    url: '/event/'
+    url: '#talks'
     weight: 60
 #  - name: Contact
 #    url: '#contact'
