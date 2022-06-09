@@ -1,5 +1,5 @@
 +++
-title = "Young Citizens Participation: Empirical Testing of a Conceptual Model"
+title = "Young Citizens Participation. Empirical Testing of a Conceptual Model"
 date = "2020-01-01"
 authors = ["Daniel Miranda", "Juan Carlos Castillo", "Andres Sandoval-Hernandez"]
 publication_types = ["2"]

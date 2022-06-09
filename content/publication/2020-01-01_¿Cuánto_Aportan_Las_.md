@@ -1,5 +1,5 @@
 +++
-title = "¿Cuánto Aportan Las Escuelas En Diversos Aspectos de La Formación Ciudadana?: Evidencias Desde ICCS"
+title = "¿Cuánto Aportan Las Escuelas En Diversos Aspectos de La Formación Ciudadana? Evidencias Desde ICCS"
 date = "2020-01-01"
 authors = ["Daniel Miranda", "Diego Carrasco"]
 publication_types = ["5"]
