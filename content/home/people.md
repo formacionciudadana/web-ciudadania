@@ -7,7 +7,7 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 130
 
 title: 
 subtitle:
@@ -16,7 +16,7 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Investigadores
+  - Academicos
   - Asistentes
   - Grad Students
   - Administration
@@ -24,8 +24,7 @@ content:
   - Alumni
 design:
   show_interests: false
-  show_role: true
+  show_role: false
   show_social: true
   show_organizations: true
-
 ---

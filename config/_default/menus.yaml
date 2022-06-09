@@ -5,41 +5,48 @@
 
 main:
   - name: Inicio
-    url: '#about'
+    url: '#about-proj'
     weight: 10
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
   - name: Proyectos
 #    url: '#projects'
-    url: '/project/'
+    url: '#projects'
     weight: 30
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
   - name: Publicaciones
 #    url: '#featured'
-    url: '/publication/'
+    url: '#publications'
     weight: 50
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
-  - name: Conferencias
+  - name: Presentaciones
 #    url: '#featured'
-    url: '/event/'
+    url: '#talks'
     weight: 60
+#  - name: Contact
+#    url: '#contact'
+#    weight: 60
+  - name: Tesistas
+#    url: '#featured'
+    url: '/tesistas/'
+    weight: 70
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
   - name: Links
     url: '/links/links/'
-    weight: 70
+    weight: 80
   # - name: Experiencias
   #   url: '/experience/'
   #   weight: 60
   - name: Nosotros
     url: '/people/'
-    weight: 80
+    weight: 90
   # - name: Experiencias
   #   url: '/experience/'
   #   weight: 60

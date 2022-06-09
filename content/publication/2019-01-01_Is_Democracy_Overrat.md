@@ -1,5 +1,5 @@
 +++
-title = "Is Democracy Overrated? Latin American Students' Support for Dictatorships. IEA COMPASS BRIEFS IN EDUCATION"
+title = "Is Democracy Overrated? Latin American Students Support for Dictatorships. IEA COMPASS BRIEFS IN EDUCATION"
 date = "2019-01-01"
 authors = ["Andres Sandoval-Hernandez", "Daniel Miranda", "Ernesto Trevino", "Sylvia Schmelkes", "Erica Nogueira"]
 publication_types = ["2"]
