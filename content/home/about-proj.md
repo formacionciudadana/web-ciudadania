@@ -51,7 +51,7 @@ css_style =  "text-align: center;"
  # CSS class.
  css_class = ""
 +++
-### El **Programa de Investigación en Ciudadanía Escolar (PRICE)** se constituye a partir de la vinculación de distintos proyectos de investigación que desde el año 2011 en adelante se han abocado a temas como participación en la escuela, conocimiento cívico, prácticas docentes de ciudadanía y socialización política familiar. <br><br> En estos proyectos participan académicas y académicos de ciencias sociales y de educación de la Universidad Diego Portales, la Pontificia Universidad Católica de Chile, y la Universidad de Chile. <br><br> El el presente sitio  <span style="color:red">ciudadania-escolar.cl</span> se puede encontrar información de los proyectos, publicaciones, presentaciones, tesis, datos y links a material relacionado con el trabajo de PRICE y con la formación ciudadana escolar en Chile.
+### El **Programa de Investigación en Ciudadanía Escolar (PRICE)** se constituye a partir de la vinculación de distintos proyectos de investigación que desde el año 2011 se han abocado a temas como participación en la escuela, conocimiento cívico, prácticas docentes de ciudadanía y socialización política familiar. <br><br> En estos proyectos participan académicas y académicos de ciencias sociales y de educación de la Universidad Diego Portales, la Pontificia Universidad Católica de Chile, y la Universidad de Chile. <br><br> En el presente sitio  <span style="color:red">ciudadania-escolar.cl</span> se puede encontrar información de los proyectos, publicaciones, presentaciones, tesis, datos y links a material relacionado con el trabajo de PRICE y con la formación ciudadana escolar en Chile.
 
 <!-- ## Get inspired -->
 
