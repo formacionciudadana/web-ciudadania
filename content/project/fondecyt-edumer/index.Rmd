@@ -5,7 +5,7 @@ summary: "Este proyecto FONDECYT regular (2021-2024) aborda las percepciones y v
 tags:
 - Fondecyt Regular
 date: "2021-03-31T00:00:00Z"
-
+show_date: false
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -29,7 +29,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
-authors: ["a-jcastillo"]
+authors: ["jccastillo"]
 ---
 
 # Resumen
@@ -49,7 +49,7 @@ Una de las características de Chile como caso de estudio a nivel internacional 
 
 - Nicolás Angelcos (Sociología- Universidad de Chile)
 - Camila Moyano (Centro de Justicia Educacional, Universidad Católica)
--  Mauricio Salgado (Sociología - Universidad Andrés Bello).
+- Mauricio Salgado (Sociología - Universidad Andrés Bello).
 
 **Asistentes de investigación:**
 

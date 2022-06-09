@@ -5,6 +5,7 @@ summary: "Este proyecto es una segunda parte del Fondecyt de Formación Ciudadan
 tags:
 - Fondecyt Regular 
 date: "2018-03-31T00:00:00Z"
+show_date: false
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 image:
@@ -27,7 +28,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides: example
-authors: ["ccox","a-jcastillo","b-dmiranda","camjara"]
+authors: ["ccox","jccastillo","dmiranda","camjara"]
 ---
 # Resumen
 

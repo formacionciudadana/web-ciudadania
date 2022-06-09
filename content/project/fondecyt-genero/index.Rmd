@@ -5,6 +5,7 @@ summary: "Este proyecto FONDECYT de Iniciación se centra en la experiencia de f
 tags:
 - Fondecyt Iniciación
 date: "2021-03-31T00:00:00Z"
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
