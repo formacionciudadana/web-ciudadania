@@ -1,7 +1,7 @@
 +++
 title = "Citizenship Education in Chile. Curricular Orientations and Teachers Beliefs in a Context of Political Crisis and Social Mobilization"
 date = "2022-01-01"
-authors = ["Cristian Cox", "Camila Jara", "Macarena {Sanchez Bachmann}"]
+authors = ["Cristian Cox", "Camila Jara", "Macarena Sanchez"]
 publication_types = ["2"]
 publication = "The Curriculum Journal, 33(2) 314--330. https://doi.org/10.1002/curj.164"
 publication_short = "The Curriculum Journal, 33(2) 314--330. https://doi.org/10.1002/curj.164"

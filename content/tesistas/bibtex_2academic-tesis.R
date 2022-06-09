@@ -91,7 +91,7 @@ bibtex_2academic <- function(bibfile,
     if (!is.na(x[["year"]])) {
       x[["date"]] <- paste0(x[["year"]], "-01-01")
     } else {
-      x[["date"]] <- "En desarrollo"
+      x[["date"]] <- "0001-01-01"
     }
 
     filename <- paste(x[["citekey"]] %>%
