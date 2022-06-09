@@ -31,15 +31,22 @@ main:
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
+  - name: Tesistas
+#    url: '#featured'
+    url: '/tesistas/'
+    weight: 70
+#  - name: Contact
+#    url: '#contact'
+#    weight: 60
   - name: Links
     url: '/links/links/'
-    weight: 70
+    weight: 80
   # - name: Experiencias
   #   url: '/experience/'
   #   weight: 60
   - name: Nosotros
     url: '/people/'
-    weight: 80
+    weight: 90
   # - name: Experiencias
   #   url: '/experience/'
   #   weight: 60
