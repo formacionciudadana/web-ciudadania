@@ -7,7 +7,7 @@ title: 'Teaching Tolerance in a Globalized World'
 authors:
   - Andrés Sandoval-Hernández
   - María Magdalena Isac
-  - b-dmiranda
+  - dmiranda
 
 # Author notes (optional)
 #author_notes:

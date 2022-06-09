@@ -6,7 +6,7 @@ title: 'Aprendizaje de la Ciudadanía: Contextos, experiencias y resultados'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - ccox
-  - a-jcastillo
+  - jccastillo
 
 # Author notes (optional)
 #author_notes:
