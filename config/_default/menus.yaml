@@ -24,7 +24,7 @@ main:
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
-  - name: Conferencias
+  - name: Presentaciones
 #    url: '#featured'
     url: '/event/'
     weight: 60

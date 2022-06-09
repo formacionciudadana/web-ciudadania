@@ -49,9 +49,13 @@ Este proyecto trata acerca de la siguiente pregunta de investigación general: �
 **Investigador principal** : Daniel Miranda (MIDE UC - Pontificia Universidad Católica de Chile).
 
 **Asistentes de investigación:**
+
 - Julio Iturra 
+
 - Anais Herrera
+
 - Pía Riff
+
 - Jorge Matamala
 
 **Periodo**: 2021-2022
