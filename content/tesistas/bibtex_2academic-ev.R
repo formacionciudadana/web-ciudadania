@@ -212,7 +212,7 @@ bibtex_2academic(bibfile  = my_bibfile,
                  overwrite = TRUE)
 
 # Create new directories for featured images------------------------------------
-md_files<- list.files(path = "content/tesistas",pattern = ".md")[-1] %>%
+md_files<- list.files(path = "content/tesistas",pattern = ".md") %>%
   str_replace_all(pattern = ".md",replacement = "") %>%
   as.list()
 
@@ -223,10 +223,10 @@ for (j in 1:length(md_files)){
 # Move created .md files to new directories -----------------------------------
 
 #list of md files
-files<- list.files(path = "content/tesistas",pattern = ".md",full.names = T)[-1]
+files<- list.files(path = "content/tesistas",pattern = ".md",full.names = T)
 
 #list of cite keys/names of the md files for merge
-citekey <- list.files(path = "content/tesistas",pattern = ".md",full.names = F)[-1] %>%
+citekey <- list.files(path = "content/tesistas",pattern = ".md",full.names = F) %>%
   str_replace_all(pattern = ".md",replacement = "")
 #list of folder directory for each md file
 dir_folder <-
