@@ -1,7 +1,7 @@
 +++
-title = "Social Origin and Citizenship Participation in Latin American Schools"
-date = "2012-01-01"
-authors = ["Juan Carlos Castillo", "Cristian Cox", "Martin Bascope", "Daniel Miranda", "D Escobar"]
+title = "Voto y Participación Electoral En Creencias y Actitudes de Estudiantes de Enseñanza Media"
+date = "2021-01-01"
+authors = ["Camila Jara", "Cristian Cox", "Macarena Sanchez"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

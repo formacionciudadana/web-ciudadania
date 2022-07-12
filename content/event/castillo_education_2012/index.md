@@ -1,7 +1,7 @@
 +++
-title = "Social Origin and Citizenship Participation in Latin American Schools"
+title = "Education, Equity and Distributive Beliefs: Evidence from the Chilean Case"
 date = "2012-01-01"
-authors = ["Juan Carlos Castillo", "Cristian Cox", "Martin Bascope", "Daniel Miranda", "D Escobar"]
+authors = ["Juan Carlos Castillo", "Ignacio Madero", "Daniel Miranda", "J Escobar"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

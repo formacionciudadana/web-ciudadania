@@ -1,7 +1,7 @@
 +++
-title = "Social Origin and Citizenship Participation in Latin American Schools"
-date = "2012-01-01"
-authors = ["Juan Carlos Castillo", "Cristian Cox", "Martin Bascope", "Daniel Miranda", "D Escobar"]
+title = "Measurement Model and Invariance Testing of Scales Measuring Attitudes Towards Diversity in ICCS 2009."
+date = "2017-01-01"
+authors = ["Daniel Miranda", "Juan Carlos Castillo"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

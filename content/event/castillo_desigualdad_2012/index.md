@@ -1,7 +1,7 @@
 +++
-title = "Desigualdad Económica y Cambios En Las Actitudes de Estudiantes Chilenos Hacia La Participación Política En Chile"
+title = "Desigualdad, Conocimiento Cívico y Expectativas de Participación Política de Estudiantes En Chile"
 date = "2012-01-01"
-authors = ["Juan Carlos Castillo", "Daniel Miranda", "J Escobar", "Martin Bascope"]
+authors = ["Juan Carlos Castillo", "Daniel Miranda", "Macarena Bonhomme", "Cristian Cox", "Martin Bascope"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

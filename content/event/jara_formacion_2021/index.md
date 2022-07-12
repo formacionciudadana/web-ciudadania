@@ -1,7 +1,7 @@
 +++
-title = "Social Origin and Citizenship Participation in Latin American Schools"
-date = "2012-01-01"
-authors = ["Juan Carlos Castillo", "Cristian Cox", "Martin Bascope", "Daniel Miranda", "D Escobar"]
+title = "Formación Ciudadana Escolar: Una Mirada a La Dimensión Medioambiental"
+date = "2021-01-01"
+authors = ["Camila Jara"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

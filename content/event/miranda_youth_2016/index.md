@@ -1,7 +1,7 @@
 +++
-title = "Social Origin and Citizenship Participation in Latin American Schools"
-date = "2012-01-01"
-authors = ["Juan Carlos Castillo", "Cristian Cox", "Martin Bascope", "Daniel Miranda", "D Escobar"]
+title = "Youth Citizenship Participation: An Empirical Test of a Conceptual Model."
+date = "2016-01-01"
+authors = ["Daniel Miranda"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

@@ -1,7 +1,7 @@
 +++
-title = "Social Origin and Citizenship Participation in Latin American Schools"
-date = "2012-01-01"
-authors = ["Juan Carlos Castillo", "Cristian Cox", "Martin Bascope", "Daniel Miranda", "D Escobar"]
+title = "Can Schools Mitigate the Socioeconomic Participation Gap? Civic Knowledge, Classroom Climate and Expected Political Participation in Latin American Schools"
+date = "2019-01-01"
+authors = ["Daniel Miranda", "Juan Carlos Castillo"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

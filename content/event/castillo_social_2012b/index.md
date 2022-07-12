@@ -1,7 +1,7 @@
 +++
-title = "Social Origin and Citizenship Participation in Latin American Schools"
+title = "Social Inequality and Changes in Students’ Expected Political Participation in Chile"
 date = "2012-01-01"
-authors = ["Juan Carlos Castillo", "Cristian Cox", "Martin Bascope", "Daniel Miranda", "D Escobar"]
+authors = ["Juan Carlos Castillo", "Daniel Miranda", "J Escobar", "Cristian Cox", "Martin Bascope"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""
