@@ -12,7 +12,7 @@ main:
 #    weight: 20
   - name: Proyectos
 #    url: '#projects'
-    url: '#projects'
+    url: '#padlet'
     weight: 30
 #  - name: Talks
 #    url: '#talks'

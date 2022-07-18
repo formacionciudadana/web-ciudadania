@@ -5,6 +5,8 @@ title: Anais Herrera
 # Is this the primary user of the site?
 superuser: false
 
+weight: 10
+
 # Role/position
 role: Coordinadora
 

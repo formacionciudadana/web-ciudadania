@@ -1,18 +1,16 @@
 ---
 # Display name
-title: Macarena Sánchez
+title: Martin Venegas
 
 # Is this the primary user of the site?
 superuser: false
 
-weight: 20
-
 # Role/position
-role: Coordinadora
+role: Ayudante
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Diego Portales
+- name: "Instituto Nacional de Estadísticas"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -42,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:macasanchezb@gmail.com'
+  link: 'mailto:martin.venegas@ug.uchile.cl'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -51,7 +49,7 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/macamacas
+  link: https://github.com/Martin-Venegas-M
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Asistentes
+- Ayudantes
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

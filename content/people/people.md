@@ -18,7 +18,7 @@ content:
   user_groups:
   - Academicos
   - Asistentes
-  - Grad Students
+  - Ayudantes
   - Administration
   - Visitors
   - Alumni
