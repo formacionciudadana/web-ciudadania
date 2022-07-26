@@ -1,7 +1,7 @@
 +++
 title = "Socialización Política y Educación Para La Ciudadanía: El Rol de La Familia y de La Escuela"
 date = "2018-01-01"
-authors = ["Daniel Miranda", "Cristian Cox", "Juan Carlos Castillo", "Camila {Jara Ibarra}"]
+authors = ["Daniel Miranda", "Cristian Cox", "Juan Carlos Castillo", "Camila Jara"]
 publication_types = ["1"]
 url_code = ""
 image_preview = ""

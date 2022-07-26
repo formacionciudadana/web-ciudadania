@@ -82,6 +82,16 @@ bibtex_2academic <- function(bibfile,
                                  TRUE ~ "0"),
       citekey=rownames(.))
 
+mypubs$lccn <- stringr::str_replace_all(
+    mypubs$lccn,
+    c(
+      "\\{" = "",
+      "\\}" = "",
+      "\\$" = "",
+      r'(\\)' = "",
+      '\\\"' = "'"
+    ))
+
   # create a function which populates the md template based on the info
   # about a publication
 
@@ -192,7 +202,7 @@ bibtex_2academic <- function(bibfile,
       write("+++", fileConn, append = T)
 
       # Any other relevant information from Zotero: write in the "Extra" field
-      # if (!is.na(x[["annotation"]])) write(paste0(x[["annotation"]]), fileConn, append = T)
+       if (!is.na(x[["lccn"]])) write(paste0(x[["lccn"]]), fileConn, append = T)
     }
   }
   # apply the "create_md" function over the publications list to generate
