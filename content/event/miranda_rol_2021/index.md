@@ -20,4 +20,4 @@ highlight = true
 image = ""
 caption = ""
 +++
-<iframe src=/slides/tolerancia/demosal2021.html height='550' width=100% allowfullscreen='true'>
+<iframe src=/slides/tolerancia/demosal2021.html height='550' width=100% allowfullscreen='true'></iframe>
