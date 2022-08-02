@@ -23,8 +23,7 @@ caption = ""
 <iframe src= /slides/tolerancia/coes2021.html height='550' width=100% allowfullscreen='true'> 
 </iframe>
 
-<iframe src= "https://ciudadania-escolar.cl/slides/tolerancia/coes2021.html" height='550' width=100% allowfullscreen='true'> 
-</iframe>
+<iframe width="600" height = "420" src="https://ciudadania-escolar.cl/slides/tolerancia/coes2021.html#1"> </iframe>
 
-<iframe src= "https://www.dropbox.com/s/x8yrkibcxr097or/coes2021.html?dl=0" height='550' width=100% allowfullscreen='true'> 
+<iframe src= "https://kevin-carrasco.github.io/presentacion-practicos/presentacion-coes-2021/tolerancia/coes2021.html#1" height='550' width=100% allowfullscreen='true'> 
 </iframe>
